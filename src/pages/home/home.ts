@@ -24,8 +24,8 @@ export class HomePage {
     
     // Set default location
     this.location = {
-      city: 'Madison',
-      state: 'WI'
+      city: 'San Francisco',
+      state: 'CA'
     }
 
     // Get weather
